@@ -1,4 +1,4 @@
-![LSN Solutions Logo](lsnsol_full_logo_black.png "Title")
+![LSN Solutions Logo](lsnsol_full_logo.png "Title")
 
 ## Hi there 👋 greetings from LSN Sol
 
